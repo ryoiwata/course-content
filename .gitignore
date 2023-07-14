@@ -3,3 +3,6 @@
 .idea
 _build
 _toc.yml
+*.npy
+*.npz
+*.mat
